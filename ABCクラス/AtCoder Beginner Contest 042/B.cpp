@@ -9,7 +9,7 @@ int main(void)
     string c;
     string answer;
 
-    cin >> L >> N;
+    cin >> N >> L;
 
     vector<string> S;
 

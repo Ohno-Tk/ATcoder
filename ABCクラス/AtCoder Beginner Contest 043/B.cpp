@@ -8,7 +8,7 @@ int main(void)
 
     cin >> input_s;
 
-    for(int i = 0; i < input_s.length(); i++){
+    for(int i = 0; i < (int)(input_s.length()); i++){
 
         if(input_s[i] == '0'){
             output_result.push_back('0');

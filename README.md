@@ -25,7 +25,3 @@ AtCoder のソースコードを置きます。
 ```
 $ git clone https://github.com/takuya-ohno/ATcoder.git
 ```
-
-## 作者
-
-takuya-ohno
